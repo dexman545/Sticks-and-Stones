@@ -1,0 +1,114 @@
+{
+	"dimensions":[
+		{
+			"dimension":"+",
+			"ores":[
+				{
+					"blockID":"minecraft:coal_ore",
+					"size":50,
+					"variation":12,
+					"frequency":.1,
+					"minHeight":0,
+					"maxHeight":128,
+					"biomes":[
+
+					]
+				},
+				{
+					"blockID":"minecraft:iron_ore",
+					"size":100,
+					"variation":30,
+					"frequency":.1,
+					"minHeight":0,
+					"maxHeight":50,
+					"biomes":[
+
+					]
+				},
+				{
+					"blockID":"minecraft:gold_ore",
+					"size":36,
+					"variation":17,
+					"frequency":2,
+					"minHeight":0,
+					"maxHeight":32,
+					"biomes":[
+
+					]
+				},
+				{
+					"blockID":"minecraft:diamond_ore",
+					"size":13,
+					"variation":9,
+					"frequency":.02,
+					"minHeight":0,
+					"maxHeight":16,
+					"biomes":[
+
+					]
+				},
+				{
+					"blockID":"minecraft:redstone_ore",
+					"size":26,
+					"variation":13,
+					"frequency":1,
+					"minHeight":0,
+					"maxHeight":16,
+					"biomes":[
+
+					]
+				},
+				{
+					"blockID":"minecraft:lapis_ore",
+					"size":25,
+					"variation":22,
+					"frequency":0.5,
+					"minHeight":0,
+					"maxHeight":32,
+					"biomes":[
+
+					]
+				},
+				{
+					"blockID":"minecraft:emerald_ore",
+					"size":3,
+					"variation":2,
+					"frequency":4,
+					"minHeight":4,
+					"maxHeight":32,
+					"biomes":[
+						"Extreme Hills Edge",
+						"Extreme Hills"
+					]
+				},
+				{
+					"blockID":"minecraft:gravel",
+					"size":112,
+					"variation":50,
+					"frequency":0.01,
+					"minHeight":0,
+					"maxHeight":255,
+					"biomes":[
+
+					]
+				}
+			]
+		},
+		{
+			"dimension":-1,
+			"ores":[
+				{
+					"blockID":"minecraft:quartz_ore",
+					"size":15,
+					"variation":4,
+					"frequency":7,
+					"minHeight":0,
+					"maxHeight":128,
+					"biomes":[
+
+					]
+				}
+			]
+		}
+	]
+}
