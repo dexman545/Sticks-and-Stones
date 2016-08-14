@@ -1,0 +1,19 @@
+{
+    name: "Features and Tweaks",
+    description: "Adding features and changing how things work",
+    sets: [
+        {
+            name: "default",
+            operations: [
+                {
+                    __comment: "You can, of course, set the harvest level on a single block as well.",
+                    __result: "Makes it to where logs can only be broken by axe",
+                    type: "setHarvestLevel",
+                    what: "minecraft:log",
+                    to: 2,
+                    with: "axe"
+                }
+            ]
+        }
+    ]
+}

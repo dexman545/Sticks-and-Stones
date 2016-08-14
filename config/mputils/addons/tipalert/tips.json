@@ -10,7 +10,7 @@
       "tipID": "wood",
       "tipName": "Wood Tip",
       "block": "minecraft:log",
-      "desc": "Use an axe to chop",
+      "desc": "Use an axe to chop. \nSneak and chop to chop whole tree at once",
       "useOreDictonary": true
     }
   ],
@@ -26,7 +26,7 @@
     {
       "tipID": "info1",
       "tipName": "The First Tools",
-      "desc": "Find gravel can be found on cliff faces"
+      "desc": "Gravel can be found on cliff faces"
     }
   ],
   "DIMENSION": [
@@ -34,7 +34,7 @@
       "tipID": "nether",
       "tipName": "Enter the Nether",
       "dimid": -1,
-      "desc": "You have Entered the Nether. \nThis place is very dangerous. Keep armor, a sword, and a bow handy."
+      "desc": "You have Entered the Nether. \nThis place is very dangerous. Keep armor, a sword, and a bow handy. \nAlso very hot"
     }
   ]
 }
