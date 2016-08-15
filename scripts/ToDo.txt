@@ -1,3 +1,8 @@
+--KEY--
+? = may or may not, undecided on this point
+tab over = subset of particular point
+-------
+
 Make wood only breakable via axe
 remove vanilla tools
 remove various TC modifiers/tool heads
@@ -7,6 +12,8 @@ finish world gen
 make ores spawn in a better way
 tech tree
 	start with few options, then branch out, give players choices in what they can do (or at least indroduce them to a varaity of mods)
+	expand early game?
+		pre industrialization
 	start with TC
 		tools will be TC, but more advanced tools should be better than TC tools, giving incentive to upgrade
 		first ore processing shopuld be smeltery
@@ -17,7 +24,7 @@ tech tree
 	Power Generation
 		Mekanism boiler, feeds into MK turbine (or other)
 			pick a heat source? or leave up to player?
-			may need to altar recipes
+			make cheaper/more expensive?
 				otherwise getting to industrial phace will be through a huge wall, which may not be that bad...
 			tear 1 power
 		
@@ -33,4 +40,8 @@ give players more building options
 remove the tools and doors from bade and modern metals
 all gears, plates, rods, and ingots (+etc.) will be from modern and base metals, where possible
 nerf mekanism storage
-may want to remove MK flamethrower, or at least the smelt mode
+remove MK flamethrower, or at least the smelt mode?
+remove heat generator
+may want to buff power requirements for machines to compenste for turbines
+	that ore nerf them, 800x10^9 RF/t is a bit silly, but that IS max turbine and a fusion reactor
+		need to check recipes
