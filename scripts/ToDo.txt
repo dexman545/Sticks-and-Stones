@@ -1,0 +1,28 @@
+Make wood only breakable via axe
+remove vanilla tools
+remove various TC modifiers/tool heads
+add weather
+add physics
+finish world gen
+make ores spawn in a better way
+tech tree
+	start with few options, then branch out, give players choices in what they can do (or at least indroduce them to a varaity of mods)
+	start with TC
+		tools will be TC, but more advanced tools should be better than TC tools, giving incentive to upgrade
+		first ore processing shopuld be smeltery
+			remove v. furnace?
+				clay bucket exists, so can use that to get fuel for smeltery
+	Ore Processing
+		TC
+		
+add immersive engineering
+modify recipes so that everything flows smoothly
+make sensitive machines/uninsuklated wires "break" in rain/thunder
+add in tips to help players
+make in game guide book
+give players more building options
+	may not be needed at this time
+remove the tools and doors from bade and modern metals
+all gears, plates, rods, and ingots (+etc.) will be from modern and base metals, where possible
+nerf mekanism storage
+may want to remove MK flamethrower, or at least the smelt mode
