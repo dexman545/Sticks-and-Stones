@@ -14,12 +14,20 @@ tech tree
 				clay bucket exists, so can use that to get fuel for smeltery
 	Ore Processing
 		TC
+	Power Generation
+		Mekanism boiler, feeds into MK turbine (or other)
+			pick a heat source? or leave up to player?
+			may need to altar recipes
+				otherwise getting to industrial phace will be through a huge wall, which may not be that bad...
+			tear 1 power
 		
 add immersive engineering
 modify recipes so that everything flows smoothly
 make sensitive machines/uninsuklated wires "break" in rain/thunder
 add in tips to help players
 make in game guide book
+	use enchiridion
+	REALLY needed for MK multiblocks, and for starting the pack
 give players more building options
 	may not be needed at this time
 remove the tools and doors from bade and modern metals
