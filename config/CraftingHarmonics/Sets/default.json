@@ -6,11 +6,21 @@
             name: "default",
             operations: [
                 {
+                    type: "setMaterialStats",
+                    material: "wood",
+                    head: {
+                        durability: 1, 
+                        harvestLevel: 0,
+                        attack: 0,
+                        miningSpeed: 0.1
+                    },
+                },
+				{
                     __comment: "You can, of course, set the harvest level on a single block as well.",
                     __result: "Makes it to where logs can only be broken by axe",
                     type: "setHarvestLevel",
-                    what: "minecraft:log",
-                    to: 2,
+                    what: "minecraft:log:0",
+                    to: 1,
                     with: "axe"
                 }
             ]

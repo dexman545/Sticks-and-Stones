@@ -11,11 +11,11 @@ bobView:false
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:1
 renderClouds:false
-resourcePacks:["Mineralogy_medium-res.zip"]
+resourcePacks:["Matmos.Default.zip","PF.Resources.zip","Mineralogy_medium-res.zip"]
 incompatibleResourcePacks:["Mineralogy_medium-res.zip"]
 lastServer:
 lang:en_US
@@ -40,7 +40,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
 showInventoryAchievementHint:false
-mipmapLevels:4
+mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
@@ -81,7 +81,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_key.betterminecraftchat.options:23
+key_key.betterminecraftchat.options:70
 key_BloodMagic.keybind.openSigilHolding:35
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
@@ -96,12 +96,14 @@ key_schematica.key.renderToggle:0
 key_schematica.key.printerToggle:0
 key_schematica.key.moveHere:0
 key_schematica.key.pickBlock:-98:SHIFT
-key_key.stellarapi.focusgui.description:22
+key_key.stellarapi.focusgui.description:0
+key_veinminer.key.enable:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0:CONTROL
 key_key.jei.showRecipe:19
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
+key_key.charset.backpackOpen:46
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
 key_mod.chiselsandbits.chiselmode.snap4:0
@@ -142,7 +144,7 @@ key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
 key_key.config:25
-key_Quick Commands:25
+key_Quick Commands:0
 key_key.materialCosts:56
 key_key.clipboardPaste:210
 key_keys.techreborn.config:23
@@ -155,7 +157,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_BetterFps:88
-soundCategory_master:0.25496688
+soundCategory_master:0.25165564
 soundCategory_music:0.5070422
 soundCategory_record:1.0
 soundCategory_weather:1.0
