@@ -1,8 +1,3 @@
---KEY--
-? = may or may not, undecided on this point
-tab over = subset of particular point
--------
-
 Make wood only breakable via axe
 remove vanilla tools
 remove various TC modifiers/tool heads
@@ -10,47 +5,19 @@ add weather
 add physics
 finish world gen
 make ores spawn in a better way
-	add certain ores to the rock type blacklist, so players go to a specific rock type to find a certain ore
-		done via minereaology
 tech tree
 	start with few options, then branch out, give players choices in what they can do (or at least indroduce them to a varaity of mods)
-	expand early game?
-		pre industrialization
 	start with TC
 		tools will be TC, but more advanced tools should be better than TC tools, giving incentive to upgrade
-	Progression
-		get flint, make TC flint hatchet
-			need to do some recieps, benches won't be available
-			some kind of napping would be nice
-		use chopping block to get planks
-		gather food
-			may want to make food rarer
-				needs testing/feedback
-		TC workbenchs
-		Flint pickaxe
-			needs to be nerfed, made limited-only good for mining stone and iron
-		smeltery
-			gives metal tools, can do more things, and faster
-		BWM
-			get a sawmill, and something to power it
-				wind/water etc.
-			might also integrate more into pack
-				make BMW a very large mid/lower-tier of pack
-		industrializing
-			mekanism boiler/turbine
-			ore processing
-				want to have more than 1 tier of this
-			cool shizzle becomes open for players
-		
-	Ore Processing
 		first ore processing shopuld be smeltery
 			remove v. furnace?
 				clay bucket exists, so can use that to get fuel for smeltery
-		
+	Ore Processing
+		TC
 	Power Generation
 		Mekanism boiler, feeds into MK turbine (or other)
 			pick a heat source? or leave up to player?
-			make cheaper/more expensive?
+			may need to altar recipes
 				otherwise getting to industrial phace will be through a huge wall, which may not be that bad...
 			tear 1 power
 		
@@ -66,10 +33,4 @@ give players more building options
 remove the tools and doors from bade and modern metals
 all gears, plates, rods, and ingots (+etc.) will be from modern and base metals, where possible
 nerf mekanism storage
-remove MK flamethrower, or at least the smelt mode?
-remove heat generator
-may want to buff power requirements for machines to compenste for turbines
-	that ore nerf them, 800x10^9 RF/t is a bit silly, but that IS max turbine and a fusion reactor
-		need to check recipes
-posibly remove Block Drops, heavily increases load time, may nto be super useful
-use BWM
+may want to remove MK flamethrower, or at least the smelt mode
