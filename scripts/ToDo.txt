@@ -31,7 +31,7 @@ make in game guide book
 give players more building options
 	may not be needed at this time
 remove the tools and doors from bade and modern metals
-	started work on modernmetals, wth is bade?
+	started work on modernmetals & base metals
 all gears, plates, rods, and ingots (+etc.) will be from modern and base metals, where possible
 nerf mekanism storage
 may want to remove MK flamethrower, or at least the smelt mode
