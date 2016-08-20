@@ -1,10 +1,9 @@
 Make wood only breakable via axe
-remove vanilla tools
 remove various TC modifiers/tool heads
 add weather
 add physics
 finish world gen
-make ores spawn in a better way
+	make ores spawn in a better way
 tech tree
 	start with few options, then branch out, give players choices in what they can do (or at least indroduce them to a varaity of mods)
 	start with TC
@@ -14,6 +13,8 @@ tech tree
 				clay bucket exists, so can use that to get fuel for smeltery
 	Ore Processing
 		TC
+		Mekanism
+			Techreborn is...eh
 	Power Generation
 		Mekanism boiler, feeds into MK turbine (or other)
 			pick a heat source? or leave up to player?
@@ -31,6 +32,5 @@ make in game guide book
 give players more building options
 	may not be needed at this time
 remove the tools and doors from bade and modern metals
-all gears, plates, rods, and ingots (+etc.) will be from modern and base metals, where possible
 nerf mekanism storage
 may want to remove MK flamethrower, or at least the smelt mode
