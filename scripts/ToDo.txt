@@ -33,7 +33,8 @@ give players more building options
 	may not be needed at this time
 nerf mekanism storage
 may want to remove MK flamethrower, or at least the smelt mode
-configure biome sound from Dynamic Surrounding
-	Make sure all biomes have sounds, and the sounds that they should
-		Forrests have the forrest sound, and maybe an owl at night, savans have bugs, swamps gators, cold places wolves at night
-	
+remove reinforced iron smelting recipe
+remove direct ore to ingot furnace recipes
+	example: make iron ingots only obtainable in a furnace via one of the processed dusts, not iron ore.
+	this forces smeltery creation as a starting point
+		closest thing to TFC smithing I can find

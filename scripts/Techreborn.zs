@@ -1,0 +1,1 @@
+//furnace.remove(<techreborn:ingot:19>);

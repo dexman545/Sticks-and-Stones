@@ -64,6 +64,3 @@ mods.jei.JEI.hide(<minecraft:diamond_pickaxe>);
 mods.jei.JEI.hide(<minecraft:diamond_axe>);
 mods.jei.JEI.hide(<minecraft:diamond_hoe>);
 mods.jei.JEI.hide(<minecraft:diamond_sword>);
-
-//remove vanilla furnace, and currect
-recipes.remove(<minecraft:furnace>);
