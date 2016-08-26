@@ -1,4 +1,3 @@
-Make wood only breakable via axe
 remove various TC modifiers/tool heads
 add weather
 add physics
@@ -21,8 +20,8 @@ tech tree
 			may need to altar recipes
 				otherwise getting to industrial phace will be through a huge wall, which may not be that bad...
 			tear 1 power
+			can be supplemented by IE water/wind mills, but they should not be the main source of power
 		
-add immersive engineering
 modify recipes so that everything flows smoothly
 make sensitive machines/uninsuklated wires "break" in rain/thunder
 add in tips to help players
@@ -38,3 +37,5 @@ remove direct ore to ingot furnace recipes
 	example: make iron ingots only obtainable in a furnace via one of the processed dusts, not iron ore.
 	this forces smeltery creation as a starting point
 		closest thing to TFC smithing I can find
+might want to make IE cables have a lower max transfer rate, to encourage upgrading
+remove IE excavator
