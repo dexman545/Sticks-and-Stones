@@ -1,7 +1,7 @@
 {
 	"dimensions":[
 		{
-			"dimension":"+",
+			"dimension":"0",
 			"ores":[
 				{
 					"blockID":"minecraft:coal_ore",
