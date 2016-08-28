@@ -1,5 +1,4 @@
 remove various TC modifiers/tool heads
-add weather
 add physics
 finish world gen
 	make ores spawn in a better way
@@ -39,3 +38,4 @@ remove direct ore to ingot furnace recipes
 		closest thing to TFC smithing I can find
 might want to make IE cables have a lower max transfer rate, to encourage upgrading
 remove IE excavator
+setup proper climate bands, similar to TFC's climate system

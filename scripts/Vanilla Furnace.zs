@@ -38,3 +38,23 @@ furnace.addRecipe(<minecraft:stonebrick:2>, <minecraft:stonebrick>, 0.1);
 furnace.addRecipe(<minecraft:quartz>, <ore:oreQuartz>, 0.2);
 
 furnace.remove(<*>, <ore:woodFireproof>);
+
+furnace.remove(<*>, <ore:oreSilver>);
+furnace.remove(<*>, <ore:oreTin>);
+furnace.remove(<*>, <ore:oreCopper>);
+furnace.remove(<*>, <ore:oreZinc>);
+furnace.remove(<*>, <ore:oreAluminum>);
+furnace.remove(<*>, <ore:oreChromium>);
+furnace.remove(<*>, <ore:oreMagnesium>);
+furnace.remove(<*>, <ore:oreManganese>);
+furnace.remove(<*>, <ore:oreOsmium>);
+furnace.remove(<*>, <ore:orePlutonium>);
+furnace.remove(<*>, <ore:oreTungsten>);
+furnace.remove(<*>, <ore:oreUranium>);
+furnace.remove(<*>, <ore:oreGold>);
+furnace.remove(<*>, <ore:oreIron>);
+furnace.remove(<*>, <ore:oreAdamantine>);
+furnace.remove(<*>, <ore:oreColdiron>);
+furnace.remove(<*>, <ore:oreLead>);
+furnace.remove(<*>, <ore:oreNickel>);
+furnace.remove(<*>, <ore:orePlatinum>);
