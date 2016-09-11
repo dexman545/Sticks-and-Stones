@@ -109,7 +109,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "mc.darkserver.co.uk:25566"
+                "ip" : "mc.darkserver.co.uk:25567"
             }
         },
 		
