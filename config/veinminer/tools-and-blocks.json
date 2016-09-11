@@ -11,7 +11,8 @@
         "minecraft:iron_axe",
         "minecraft:stone_axe",
         "minecraft:wooden_axe",
-        "tconstruct:hatchet"
+        "tconstruct:hatchet",
+		"flintmod:axeFlint"
       ],
       "blocklist": [
         "biomesoplenty:leaves_0/8",

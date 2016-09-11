@@ -20,6 +20,12 @@
       "tipName": "Redstone ToolTip",
       "item": "minecraft:redstone",
       "desc": "Use redstone to power \nyour devices"
+    },
+	{
+      "tipID": "furnace",
+      "tipName": "Furnace ToolTip",
+      "item": "immcraft:furnace",
+      "desc": "Look at slot you want to insert held item into \nLight with a firestarter"
     }
   ],
   "INFO": [

@@ -7,8 +7,6 @@ tech tree
 	start with TC
 		tools will be TC, but more advanced tools should be better than TC tools, giving incentive to upgrade
 		first ore processing shopuld be smeltery
-			remove v. furnace?
-				clay bucket exists, so can use that to get fuel for smeltery
 	Ore Processing
 		TC
 		Mekanism
@@ -32,10 +30,16 @@ give players more building options
 nerf mekanism storage
 may want to remove MK flamethrower, or at least the smelt mode
 remove reinforced iron smelting recipe
-remove direct ore to ingot furnace recipes
-	example: make iron ingots only obtainable in a furnace via one of the processed dusts, not iron ore.
-	this forces smeltery creation as a starting point
-		closest thing to TFC smithing I can find
+	replace with a machine recipe
 might want to make IE cables have a lower max transfer rate, to encourage upgrading
 remove IE excavator
 setup proper climate bands, similar to TFC's climate system
+Tweak Better Sleeping to behave like a good little mod
+	make it so that it is not anoying, but actually adds to gameplay
+replace vanilla furnace with immersivecraft furnace
+Fix multiple sticks dropping from leaves
+	prob. from config overlap
+Fix tips notr showing for BOP logs
+canteen recipe alrtar for ease of start
+slow leaf regrow time
+fix saw recipe not showing
