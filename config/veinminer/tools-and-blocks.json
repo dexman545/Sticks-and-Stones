@@ -6,13 +6,13 @@
       "toollist": [
         "BiomesOPlenty:axeAmethyst",
         "BiomesOPlenty:axeMud",
+        "flintmod:axeFlint",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
         "minecraft:stone_axe",
         "minecraft:wooden_axe",
-        "tconstruct:hatchet",
-		"flintmod:axeFlint"
+        "tconstruct:hatchet"
       ],
       "blocklist": [
         "biomesoplenty:leaves_0/8",
