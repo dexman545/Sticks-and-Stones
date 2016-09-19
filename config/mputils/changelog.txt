@@ -1,4 +1,20 @@
-Initial Build
--Added bunch o' mods
--intital tweaks
--still not done!
+Version 0.9.2
+	Added Morpheus
+	Added Simple Achivements
+	Added IVToolkit
+	Added Recurrent Complex
+	Added Hardcore Wither
+	Disabled lower starting health
+		mobs be tougher than nails
+	Disabled Better Sleeping
+		it needs either a lot of tweaking, or to be gone
+	Updated many mods
+		Forge 2091
+	Added Mattock to vienminer axe list
+	Removed farming capabilities of bamboo and rivercane by having them convert to sticks
+		May revert if it causes issues
+	Buffed iron ore spawns
+	Nerfed gold ore spawns
+	Made geomes smaller
+	
+	

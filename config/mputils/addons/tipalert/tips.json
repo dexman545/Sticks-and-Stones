@@ -12,16 +12,31 @@
       "block": "minecraft:log",
       "desc": "Use an axe to chop. \nSneak and chop to chop whole tree at once",
       "useOreDictonary": true
+    },
+    {
+      "tipID": "water",
+      "tipName": "Thirst Tip",
+      "block": "minecraft:grass",
+      "desc": "Use a canteen or a bottle to drink water \nYou should filter it, though",
+      "useOreDictonary": true
+    },
+    {
+      "tipID": "cold",
+      "tipName": "Cold Tip",
+      "block": "minecraft:snow_layer",
+      "desc": "Seems cold, perhaps a jacket will help? Or a campfire?",
+      "useOreDictonary": true
+    },
+    {
+      "tipID": "fire",
+      "tipName": "Starter Tip",
+      "block": "toughasnails:campfire",
+      "desc": "Light fires with a firestarter, kolo?",
+      "useOreDictonary": true
     }
   ],
   "TOOLTIP": [
     {
-      "tipID": "redstone",
-      "tipName": "Redstone ToolTip",
-      "item": "minecraft:redstone",
-      "desc": "Use redstone to power \nyour devices"
-    },
-	{
       "tipID": "furnace",
       "tipName": "Furnace ToolTip",
       "item": "immcraft:furnace",

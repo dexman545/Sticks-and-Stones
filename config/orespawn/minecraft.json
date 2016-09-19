@@ -18,9 +18,9 @@
 					"blockID":"minecraft:iron_ore",
 					"size":100,
 					"variation":30,
-					"frequency":.1,
+					"frequency":.2,
 					"minHeight":0,
-					"maxHeight":50,
+					"maxHeight":100,
 					"biomes":[
 
 					]
@@ -29,7 +29,7 @@
 					"blockID":"minecraft:gold_ore",
 					"size":36,
 					"variation":17,
-					"frequency":2,
+					"frequency":.2,
 					"minHeight":0,
 					"maxHeight":32,
 					"biomes":[

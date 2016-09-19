@@ -12,7 +12,8 @@
         "minecraft:iron_axe",
         "minecraft:stone_axe",
         "minecraft:wooden_axe",
-        "tconstruct:hatchet"
+        "tconstruct:hatchet",
+        "tconstruct:mattock"
       ],
       "blocklist": [
         "biomesoplenty:leaves_0/8",
@@ -89,6 +90,7 @@
         "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
+        "roots:logWildwood/0",
         "tconstruct:slime_leaves",
         "techreborn:rubberLeaves",
         "techreborn:rubberLog"

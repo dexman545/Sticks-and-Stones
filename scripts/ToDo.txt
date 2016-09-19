@@ -42,4 +42,22 @@ Fix multiple sticks dropping from leaves
 Fix tips notr showing for BOP logs
 canteen recipe alrtar for ease of start
 slow leaf regrow time
-fix saw recipe not showing
+fix bug with dropping items causing disconects
+up clay spawn?
+may want to buff player, mobs be tuff
+check bed respawns
+flint tools need ore dict sticks
+make sleeping easier
+oredict for sticks needs work
+	yurt mod
+Add warning about shift clicking tent from crafting
+Add more tips
+Issue with strucutres spawning over streams/in ground/over water
+Create ahivements
+May want to modify structure spawning conditions
+	where they spawn
+	if they replace with air
+May want to remove building spawns
+May want to add more fossil/terrain feature spawns
+millstone – game crashed when placing
+worldgen: worldgen is broken, there was a line of world cut off
