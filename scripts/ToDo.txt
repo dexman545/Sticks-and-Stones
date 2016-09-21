@@ -61,3 +61,7 @@ May want to remove building spawns
 May want to add more fossil/terrain feature spawns
 millstone – game crashed when placing
 worldgen: worldgen is broken, there was a line of world cut off
+blacklist tent blocks from BM teleposer
+Move all minetweaker scrifts of to crafting harmonics
+	this is due to MT being stupid, and a bug
+	Remove MT

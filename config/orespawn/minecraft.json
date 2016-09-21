@@ -1,13 +1,13 @@
 {
 	"dimensions":[
 		{
-			"dimension":"0",
+			"dimension":"+",
 			"ores":[
 				{
 					"blockID":"minecraft:coal_ore",
-					"size":50,
+					"size":25,
 					"variation":12,
-					"frequency":.1,
+					"frequency":20,
 					"minHeight":0,
 					"maxHeight":128,
 					"biomes":[
@@ -16,20 +16,20 @@
 				},
 				{
 					"blockID":"minecraft:iron_ore",
-					"size":100,
-					"variation":30,
-					"frequency":.2,
+					"size":8,
+					"variation":4,
+					"frequency":20,
 					"minHeight":0,
-					"maxHeight":100,
+					"maxHeight":64,
 					"biomes":[
 
 					]
 				},
 				{
 					"blockID":"minecraft:gold_ore",
-					"size":36,
-					"variation":17,
-					"frequency":.2,
+					"size":8,
+					"variation":2,
+					"frequency":2,
 					"minHeight":0,
 					"maxHeight":32,
 					"biomes":[
@@ -38,19 +38,8 @@
 				},
 				{
 					"blockID":"minecraft:diamond_ore",
-					"size":13,
-					"variation":9,
-					"frequency":.02,
-					"minHeight":0,
-					"maxHeight":16,
-					"biomes":[
-
-					]
-				},
-				{
-					"blockID":"minecraft:redstone_ore",
-					"size":26,
-					"variation":13,
+					"size":6,
+					"variation":3,
 					"frequency":1,
 					"minHeight":0,
 					"maxHeight":16,
@@ -59,10 +48,21 @@
 					]
 				},
 				{
+					"blockID":"minecraft:redstone_ore",
+					"size":6,
+					"variation":3,
+					"frequency":8,
+					"minHeight":0,
+					"maxHeight":16,
+					"biomes":[
+
+					]
+				},
+				{
 					"blockID":"minecraft:lapis_ore",
-					"size":25,
-					"variation":22,
-					"frequency":0.5,
+					"size":5,
+					"variation":2,
+					"frequency":1,
 					"minHeight":0,
 					"maxHeight":32,
 					"biomes":[
@@ -71,9 +71,9 @@
 				},
 				{
 					"blockID":"minecraft:emerald_ore",
-					"size":3,
-					"variation":2,
-					"frequency":4,
+					"size":1,
+					"variation":0,
+					"frequency":8,
 					"minHeight":4,
 					"maxHeight":32,
 					"biomes":[
@@ -82,10 +82,60 @@
 					]
 				},
 				{
+					"blockID":"minecraft:dirt",
+					"size":112,
+					"variation":50,
+					"frequency":10,
+					"minHeight":0,
+					"maxHeight":255,
+					"biomes":[
+
+					]
+				},
+				{
 					"blockID":"minecraft:gravel",
 					"size":112,
 					"variation":50,
-					"frequency":0.01,
+					"frequency":8,
+					"minHeight":0,
+					"maxHeight":255,
+					"biomes":[
+
+					]
+				},
+				{
+					"__comment":"granite",
+					"blockID":"minecraft:stone",
+					"blockMeta":1,
+					"size":112,
+					"variation":50,
+					"frequency":10,
+					"minHeight":0,
+					"maxHeight":255,
+					"biomes":[
+
+					]
+				},
+				{
+					"__comment":"diorite",
+					"blockID":"minecraft:stone",
+					"blockMeta":3,
+					"size":112,
+					"variation":50,
+					"frequency":10,
+					"minHeight":0,
+					"maxHeight":255,
+					"biomes":[
+
+					]
+				},
+				{
+					"__comment":"andesite",
+					"blockID":"minecraft:stone",
+					"blockMeta":5,
+					"size":112,
+					"variation":50,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":255,
 					"biomes":[
