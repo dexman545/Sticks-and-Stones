@@ -39,8 +39,9 @@ Tweak Better Sleeping to behave like a good little mod
 replace vanilla furnace with immersivecraft furnace
 Fix multiple sticks dropping from leaves
 	prob. from config overlap
-Fix tips notr showing for BOP logs
+Fix tips not showing for BOP logs
 canteen recipe alrtar for ease of start
+	change texture and make clay?
 slow leaf regrow time
 fix bug with dropping items causing disconects
 up clay spawn?
@@ -65,3 +66,4 @@ blacklist tent blocks from BM teleposer
 Move all minetweaker scrifts of to crafting harmonics
 	this is due to MT being stupid, and a bug
 	Remove MT
+Update Main Menu Backgrounds
