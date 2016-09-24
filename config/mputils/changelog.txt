@@ -3,7 +3,7 @@ Version 0.11.0
 		Forge 2093
 		Fixed inability to use part builder
 	Added Biome Tweaker
-	Added Realistic Items
+	Added Realistic Item Drops
 		Removed ItemPhysic
 		Removed CreativeCore
 		Hopefully fixed disconnect bug when dropping items via 'Q'

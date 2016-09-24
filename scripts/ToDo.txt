@@ -53,5 +53,5 @@ May want to add more fossil/terrain feature spawns
 blacklist tent blocks from BM teleposer
 Crash when breaking vertical windmill
 Remove fireproof wood charcoal recipes
-Remove fireproo wood as furnace fuel
-Remove base/modern metals bars, and armour
+Remove fireproof wood as furnace fuel
+Remove base/modern metal's bars, and armour
