@@ -52,7 +52,6 @@ May want to remove building spawns
 May want to add more fossil/terrain feature spawns
 blacklist tent blocks from BM teleposer
 Crash when breaking vertical windmill
-Hide all items that need to be hidden
-	the items from MT scripts neeed to be hidden through some other means, probably Crafting Harmonics
 Remove fireproof wood charcoal recipes
 Remove fireproo wood as furnace fuel
+Remove base/modern metals bars, and armour

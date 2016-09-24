@@ -25,4 +25,5 @@ Version 0.11.0
 		Fixed scripts not loading
 			MT uses an old JEI API, so when it tried to remove the items, it broke...for reasons ¯\_(ツ)_/¯
 		Removed some old stuff
+	Hid items that needed to be hidden from JEI
 	
