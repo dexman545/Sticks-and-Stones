@@ -39,7 +39,7 @@ recipes.remove(<modernmetals:titanium_crackhammer>);
 recipes.remove(<modernmetals:tungsten_crackhammer>);
 recipes.remove(<modernmetals:uranium_crackhammer>);
 recipes.remove(<modernmetals:zirconium_crackhammer>);
-
+/*
 mods.jei.JEI.hide(<basemetals:adamantine_crackhammer>);
 mods.jei.JEI.hide(<basemetals:aquarium_crackhammer>);
 mods.jei.JEI.hide(<basemetals:brass_crackhammer>);
@@ -80,3 +80,4 @@ mods.jei.JEI.hide(<modernmetals:titanium_crackhammer>);
 mods.jei.JEI.hide(<modernmetals:tungsten_crackhammer>);
 mods.jei.JEI.hide(<modernmetals:uranium_crackhammer>);
 mods.jei.JEI.hide(<modernmetals:zirconium_crackhammer>);
+*/

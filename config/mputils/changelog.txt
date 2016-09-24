@@ -18,3 +18,11 @@ Version 0.11.0
 	Added D3Commands
 	Removed Spice of Life
 		Many bugs
+	Updated main menu backgrounds
+		now show pictures from S&S instead of Technofirma
+	Altered MT Scripts
+		Removed the re-addition for vanilla furnace recipes
+		Fixed scripts not loading
+			MT uses an old JEI API, so when it tried to remove the items, it broke...for reasons ¯\_(ツ)_/¯
+		Removed some old stuff
+	

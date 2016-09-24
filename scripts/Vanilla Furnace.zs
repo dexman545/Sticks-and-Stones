@@ -6,9 +6,9 @@ val cobble = <ore:cobblestone>;
 val charcoal = <minecraft:coal:1>;
 val iron = <minecraft:iron_ingot>;
 
-//Remove All Furnace Recipes
 
 //Add in vanilla furnace recipes
+/*
 furnace.addRecipe(<minecraft:cooked_beef>, <minecraft:beef:*>, 0.35);
 furnace.addRecipe(gold, <ore:dustGold>, 0.15);
 furnace.addRecipe(gold, <ore:oreGold>, 0.15);
@@ -37,7 +37,10 @@ furnace.addRecipe(charcoal, <ore:logWood>, 0.15);
 furnace.addRecipe(<minecraft:stonebrick:2>, <minecraft:stonebrick>, 0.1);
 furnace.addRecipe(<minecraft:quartz>, <ore:oreQuartz>, 0.2);
 
-furnace.remove(<*>, <ore:woodFireproof>);
+*/
+
+//furnace.remove(<*>, <ore:woodFireproof>);
+furnace.setFuel(<ore:woodFireproof>, 0);
 
 furnace.remove(<*>, <ore:oreSilver>);
 furnace.remove(<*>, <ore:oreTin>);
