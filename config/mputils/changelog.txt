@@ -1,13 +1,20 @@
 Version 0.11.0
 	Updated various mods
 		Forge 2093
+		Fixed inability to use part builder
 	Added Biome Tweaker
 	Added Realistic Items
 		Removed ItemPhysic
 		Removed CreativeCore
+		Hopefully fixed disconnect bug when dropping items via 'Q'
 	Cleaned up and updated configs
 	Changed the default font
 	Increased mag_limit to 6, from 5
 	Made structures rarer
 		Hopefully
-		
+	Added JustEnoughCalculations
+		Mod that tells you how many resources are needed to craft an item
+	Added D3Core
+	Added D3Commands
+	Removed Spice of Life
+		Many bugs
