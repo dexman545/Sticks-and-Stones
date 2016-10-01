@@ -16,8 +16,13 @@
 		Removed CalendarAPI
 	Disabled Reccurent Complex Forests
 		They overwrote the beauty that is RTG
-	Did the MPUtil mod info
+	Did the MPUtil pack info
 	Enabled mountain chains
 	Enabled climate bands
 		Hopefully
-	
+	Fixed recipe conflict betwen sharpening and sharpened stone		
+	BTW's iron knife is now made with TConstruct stone sharpening kit	
+	Removed sharpening stone	
+	Updated BTW's leatherworking recipes to use ore dict	
+	Fixed Heat Generator not being removed		
+	Removed Immersive Craft	

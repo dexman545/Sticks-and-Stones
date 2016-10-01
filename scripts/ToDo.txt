@@ -51,9 +51,6 @@ May want to modify structure spawning conditions
 May want to remove building spawns
 May want to add more fossil/terrain feature spawns
 blacklist tent blocks from BM teleposer
-Crash when breaking vertical windmill
 Remove fireproof wood charcoal recipes
 Remove fireproof wood as furnace fuel
 Remove base/modern metal's bars, and armour
-sharpening stone and sharpened flint share a recipe
-	but only sharpened flint is craftable, you need sharpening stone to get along in better with mods though
