@@ -1,29 +1,23 @@
-Version 0.11.0
+§4§cVersion 0.11.1§r§r
+	Fix crash when trying to view credits
+	Fixed credits screen using a nonexistant image
 	Updated various mods
-		Forge 2093
-		Fixed inability to use part builder
-	Added Biome Tweaker
-	Added Realistic Item Drops
-		Removed ItemPhysic
-		Removed CreativeCore
-		Hopefully fixed disconnect bug when dropping items via 'Q'
-	Cleaned up and updated configs
-	Changed the default font
-	Increased mag_limit to 6, from 5
-	Made structures rarer
+	Enabled full bounding box ladders in forge.cfg
+	Made zombie babies and social spawning rarer
+	Disabled baby skeleton
+	Disabled BTW's hardcore hunger
+		should make early game easier
+	Fixed Geographicraft not working
+	Changed the volcanic island's beach to be volcanic island
+	Made leaf decay slower
+	Fixed inability to sleep due to monsters being nearby, even in peaceful
+	Fully removed Better Sleeping
+		Removed FoxieLib
+		Removed CalendarAPI
+	Disabled Reccurent Complex Forests
+		They overwrote the beauty that is RTG
+	Did the MPUtil mod info
+	Enabled mountain chains
+	Enabled climate bands
 		Hopefully
-	Added JustEnoughCalculations
-		Mod that tells you how many resources are needed to craft an item
-	Added D3Core
-	Added D3Commands
-	Removed Spice of Life
-		Many bugs
-	Updated main menu backgrounds
-		now show pictures from S&S instead of Technofirma
-	Altered MT Scripts
-		Removed the re-addition for vanilla furnace recipes
-		Fixed scripts not loading
-			MT uses an old JEI API, so when it tried to remove the items, it broke...for reasons Â¯\_(ãƒ„)_/Â¯
-		Removed some old stuff
-	Hid items that needed to be hidden from JEI
 	
