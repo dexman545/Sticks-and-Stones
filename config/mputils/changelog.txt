@@ -1,28 +1,1 @@
-§4§cVersion 0.11.1§r§r
-	Fix crash when trying to view credits
-	Fixed credits screen using a nonexistant image
-	Updated various mods
-	Enabled full bounding box ladders in forge.cfg
-	Made zombie babies and social spawning rarer
-	Disabled baby skeleton
-	Disabled BTW's hardcore hunger
-		should make early game easier
-	Fixed Geographicraft not working
-	Changed the volcanic island's beach to be volcanic island
-	Made leaf decay slower
-	Fixed inability to sleep due to monsters being nearby, even in peaceful
-	Fully removed Better Sleeping
-		Removed FoxieLib
-		Removed CalendarAPI
-	Disabled Reccurent Complex Forests
-		They overwrote the beauty that is RTG
-	Did the MPUtil pack info
-	Enabled mountain chains
-	Enabled climate bands
-		Hopefully
-	Fixed recipe conflict betwen sharpening and sharpened stone		
-	BTW's iron knife is now made with TConstruct stone sharpening kit	
-	Removed sharpening stone	
-	Updated BTW's leatherworking recipes to use ore dict	
-	Fixed Heat Generator not being removed		
-	Removed Immersive Craft	
+§4§cVersion 0.12.0§r§rAdded Uphill Stetp Assist	Disbled Auto-JumpAdded ControllingAdded Crashlog AdditionsAdded No Mob Spawning on TreesAdded Mo' BendsAdded ForageCraftAdded Ender StorageAdded Not Enough ItemsUpdated Various Mods	Forge 2099Posibly boosted performanceUndid changes to ladder behaviorFinally did the ore changes	Should be closer to final versions	Biome specific ores	Better spread and node size

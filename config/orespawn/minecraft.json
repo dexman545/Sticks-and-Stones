@@ -1,7 +1,7 @@
 {
 	"dimensions":[
 		{
-			"dimension":"+",
+			"dimension":"0",
 			"ores":[
 				{
 					"blockID":"minecraft:coal_ore",
@@ -11,14 +11,14 @@
 					"minHeight":0,
 					"maxHeight":128,
 					"biomes":[
-
-					]
+					
+				]
 				},
 				{
 					"blockID":"minecraft:iron_ore",
 					"size":8,
 					"variation":4,
-					"frequency":20,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":64,
 					"biomes":[
@@ -29,7 +29,7 @@
 					"blockID":"minecraft:gold_ore",
 					"size":8,
 					"variation":2,
-					"frequency":2,
+					"frequency":3,
 					"minHeight":0,
 					"maxHeight":32,
 					"biomes":[
@@ -40,7 +40,7 @@
 					"blockID":"minecraft:diamond_ore",
 					"size":6,
 					"variation":3,
-					"frequency":1,
+					"frequency":2,
 					"minHeight":0,
 					"maxHeight":16,
 					"biomes":[
@@ -73,12 +73,11 @@
 					"blockID":"minecraft:emerald_ore",
 					"size":1,
 					"variation":0,
-					"frequency":8,
+					"frequency":4,
 					"minHeight":4,
 					"maxHeight":32,
 					"biomes":[
-						"Extreme Hills Edge",
-						"Extreme Hills"
+						
 					]
 				},
 				{

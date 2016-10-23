@@ -1,7 +1,7 @@
 {
   "name": "Sticks and Stones",
   "description": "This is a modpack for Minecraft, and as such it is a game where you walk, run, swim, [occasionally fly,] and place blocks. You also break blocks. It has many mods of varying purposes. Some make the game harder [you need an axe, made of flint] to chop your first tree. You don\u0027t craft planks, you chop them on a chopping block.  This pack is meant to be challenging, combating the player with thirst, body temperature, and the overall increased difficulty of the early game. Progression then flows into metalworking, by way of Tinker\u0027s Construct, then into industrialization with Mekanism, Techreborn, etc. Also, Blood Magic is in for those feeling magically inclined.",
-  "version": "0.11.1",
+  "version": "0.12.0",
   "url": "",
   "authorList": [
     "Deximus-Maximus [kev12east]"
