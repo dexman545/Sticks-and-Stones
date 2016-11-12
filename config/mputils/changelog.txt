@@ -1,1 +1,23 @@
-§4§cVersion 0.12.0§r§rAdded Uphill Stetp Assist	Disbled Auto-JumpAdded ControllingAdded Crashlog AdditionsAdded No Mob Spawning on TreesAdded Mo' BendsAdded ForageCraftAdded Ender StorageAdded Not Enough ItemsUpdated Various Mods	Forge 2099Posibly boosted performanceUndid changes to ladder behaviorFinally did the ore changes	Should be closer to final versions	Biome specific ores	Better spread and node size
+§4§cVersion 0.12.0
+§r§r
+
+
+Updated Various Mods
+	Forge 2112
+Added Uphill Stetp Assist
+	Disbled Auto-Jump
+Added Controlling
+Added Crashlog Additions
+Added No Mob Spawning on Trees
+Added ForageCraft
+Added Ender Storage
+Added Not Enough Items
+Added EnderCore
+	Dep. for EnderIO
+Posibly boosted performance
+Undid changes to ladder behavior
+Finally did the ore changes
+	Should be closer to final versions
+	Biome specific ores
+	Better spread and node size
+Disabled BWM TConstruct intergrtion to fix crashFixed trees being indecisive about ebing round or square	they chose round

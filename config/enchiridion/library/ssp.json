@@ -91,6 +91,12 @@
       "matchNBT": false
     },
     {
+      "item": "guideapi:ItemGuideBook",
+      "handlerType": "copynbt",
+      "matchDamage": false,
+      "matchNBT": false
+    },
+    {
       "item": "minecraft:planks 1",
       "handlerType": "customwood",
       "matchDamage": true,
