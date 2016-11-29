@@ -142,7 +142,8 @@
         "BiomesOPlenty:scytheIron",
         "BiomesOPlenty:scytheMud",
         "BiomesOPlenty:scytheStone",
-        "BiomesOPlenty:scytheWood"
+        "BiomesOPlenty:scytheWood",
+        "minecraft:shears"
       ],
       "blocklist": []
     },
@@ -152,6 +153,11 @@
       "toollist": [
         "BiomesOPlenty:shovelAmethyst",
         "BiomesOPlenty:shovelMud",
+        "minecraft:diamond_shovel",
+        "minecraft:golden_shovel",
+        "minecraft:iron_shovel",
+        "minecraft:stone_shovel",
+        "minecraft:wooden_shovel",
         "tconstruct:mattock",
         "tconstruct:shovel"
       ],

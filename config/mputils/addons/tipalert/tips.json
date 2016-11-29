@@ -37,10 +37,10 @@
   ],
   "TOOLTIP": [
     {
-      "tipID": "furnace",
-      "tipName": "Furnace ToolTip",
-      "item": "immcraft:furnace",
-      "desc": "Look at slot you want to insert held item into \nLight with a firestarter"
+      "tipID": "stone",
+      "tipName": "Stone ToolTip",
+      "item": "minecraft:stone",
+      "desc": "IF you see this tooltip, you can see"
     }
   ],
   "INFO": [

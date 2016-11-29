@@ -21,35 +21,22 @@ tech tree
 		
 modify recipes so that everything flows smoothly
 make sensitive machines/uninsuklated wires "break" in rain/thunder
-add in tips to help players
 make in game guide book
 	use enchiridion
 	REALLY needed for MK multiblocks, and for starting the pack
-give players more building options
-	may not be needed at this time
 nerf mekanism storage
 may want to remove MK flamethrower, or at least the smelt mode
-remove reinforced iron smelting recipe
+remove refined iron smelting recipe
 	replace with a machine recipe
 might want to make IE cables have a lower max transfer rate, to encourage upgrading
 remove IE excavator
 setup proper climate bands, similar to TFC's climate system
-Tweak Better Sleeping to behave like a good little mod
-	make it so that it is not anoying, but actually adds to gameplay
 replace vanilla furnace with immersivecraft furnace
-Fix multiple sticks dropping from leaves
-	prob. from config overlap
-Fix tips notr showing for BOP logs
+Fix tips not showing for BOP logs
 canteen recipe alrtar for ease of start
-slow leaf regrow time
-fix bug with dropping items causing disconects
+	change texture and make clay?
 up clay spawn?
 may want to buff player, mobs be tuff
-check bed respawns
-flint tools need ore dict sticks
-make sleeping easier
-oredict for sticks needs work
-	yurt mod
 Add warning about shift clicking tent from crafting
 Add more tips
 Issue with strucutres spawning over streams/in ground/over water
@@ -59,5 +46,8 @@ May want to modify structure spawning conditions
 	if they replace with air
 May want to remove building spawns
 May want to add more fossil/terrain feature spawns
-millstone – game crashed when placing
-worldgen: worldgen is broken, there was a line of world cut off
+blacklist tent blocks from BM teleposer
+Remove fireproof wood charcoal recipes
+Remove fireproof wood as furnace fuel
+Remove base/modern metal's bars, and armour
+May want to add chiseled me for use with chisle and bits

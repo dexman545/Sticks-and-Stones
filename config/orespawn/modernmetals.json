@@ -9,7 +9,7 @@
 					"blockID":"modernmetals:aluminum_ore",
 					"size":16,
 					"variation":4,
-					"frequency":.1,
+					"frequency":1,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -17,7 +17,7 @@
 					"blockID":"modernmetals:chromium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":1,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -25,7 +25,7 @@
 					"blockID":"modernmetals:iridium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":1,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -33,23 +33,25 @@
 					"blockID":"modernmetals:magnesium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":1,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":96,
+					"biomes":[]
 				},
 				{
 					"blockID":"modernmetals:manganese_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":1,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":96,
+					"biomes":[]
 				},
 				{
 					"blockID":"modernmetals:osmium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":5,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -57,25 +59,28 @@
 					"blockID":"modernmetals:plutonium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":1,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":96,
+					"biomes":[]
 				},
 				{
 					"blockID":"modernmetals:tungsten_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":1,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":96,
+					"biomes":[]
 				},
 				{
 					"blockID":"modernmetals:uranium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":.10,
+					"frequency":1,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":96,
+					"biomes":[]
 				}
 			]
 		}

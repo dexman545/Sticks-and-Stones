@@ -67,6 +67,12 @@
       "matchNBT": false
     },
     {
+      "item": "tconstruct:book",
+      "handlerType": "rightclick",
+      "matchDamage": false,
+      "matchNBT": false
+    },
+    {
       "item": "computercraft:printout",
       "handlerType": "computercraft",
       "matchDamage": false,
@@ -81,6 +87,12 @@
     {
       "item": "warpbook:warpbook",
       "handlerType": "warpbook",
+      "matchDamage": false,
+      "matchNBT": false
+    },
+    {
+      "item": "guideapi:ItemGuideBook",
+      "handlerType": "copynbt",
       "matchDamage": false,
       "matchNBT": false
     },

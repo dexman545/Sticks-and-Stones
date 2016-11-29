@@ -44,6 +44,8 @@ recipes.remove(<basemetals:starsteel_pickaxe>);
 recipes.remove(<basemetals:steel_pickaxe>);
 recipes.remove(<basemetals:tin_pickaxe>);
 
+/*
+
 mods.jei.JEI.hide(<modernmetals:aluminum_pickaxe>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_pickaxe>);
 mods.jei.JEI.hide(<modernmetals:cadmium_pickaxe>);
@@ -81,7 +83,7 @@ mods.jei.JEI.hide(<basemetals:starsteel_pickaxe>);
 mods.jei.JEI.hide(<basemetals:steel_pickaxe>);
 mods.jei.JEI.hide(<basemetals:tin_pickaxe>);
 
-
+*/
 
 //Shovels
 recipes.remove(<modernmetals:aluminum_shovel>);
@@ -120,7 +122,7 @@ recipes.remove(<basemetals:silver_shovel>);
 recipes.remove(<basemetals:starsteel_shovel>);
 recipes.remove(<basemetals:steel_shovel>);
 recipes.remove(<basemetals:tin_shovel>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_shovel>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_shovel>);
 mods.jei.JEI.hide(<modernmetals:cadmium_shovel>);
@@ -158,7 +160,7 @@ mods.jei.JEI.hide(<basemetals:starsteel_shovel>);
 mods.jei.JEI.hide(<basemetals:steel_shovel>);
 mods.jei.JEI.hide(<basemetals:tin_shovel>);
 
-
+*/
 
 //Axes
 recipes.remove(<modernmetals:aluminum_axe>);
@@ -197,7 +199,7 @@ recipes.remove(<basemetals:silver_axe>);
 recipes.remove(<basemetals:starsteel_axe>);
 recipes.remove(<basemetals:steel_axe>);
 recipes.remove(<basemetals:tin_axe>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_axe>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_axe>);
 mods.jei.JEI.hide(<modernmetals:cadmium_axe>);
@@ -235,7 +237,7 @@ mods.jei.JEI.hide(<basemetals:starsteel_axe>);
 mods.jei.JEI.hide(<basemetals:steel_axe>);
 mods.jei.JEI.hide(<basemetals:tin_axe>);
 
-
+*/
 
 //hoes
 recipes.remove(<modernmetals:aluminum_hoe>);
@@ -274,7 +276,7 @@ recipes.remove(<basemetals:silver_hoe>);
 recipes.remove(<basemetals:starsteel_hoe>);
 recipes.remove(<basemetals:steel_hoe>);
 recipes.remove(<basemetals:tin_hoe>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_hoe>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_hoe>);
 mods.jei.JEI.hide(<modernmetals:cadmium_hoe>);
@@ -312,7 +314,7 @@ mods.jei.JEI.hide(<basemetals:starsteel_hoe>);
 mods.jei.JEI.hide(<basemetals:steel_hoe>);
 mods.jei.JEI.hide(<basemetals:tin_hoe>);
 
-
+*/
 
 //swords
 recipes.remove(<modernmetals:aluminum_sword>);
@@ -351,7 +353,7 @@ recipes.remove(<basemetals:silver_sword>);
 recipes.remove(<basemetals:starsteel_sword>);
 recipes.remove(<basemetals:steel_sword>);
 recipes.remove(<basemetals:tin_sword>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_sword>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_sword>);
 mods.jei.JEI.hide(<modernmetals:cadmium_sword>);
@@ -389,7 +391,7 @@ mods.jei.JEI.hide(<basemetals:starsteel_sword>);
 mods.jei.JEI.hide(<basemetals:steel_sword>);
 mods.jei.JEI.hide(<basemetals:tin_sword>);
 
-
+*/
 
 //doors
 recipes.remove(<modernmetals:aluminum_door_item>);
@@ -428,7 +430,7 @@ recipes.remove(<basemetals:silver_door_item>);
 recipes.remove(<basemetals:starsteel_door_item>);
 recipes.remove(<basemetals:steel_door_item>);
 recipes.remove(<basemetals:tin_door_item>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_door_item>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_door_item>);
 mods.jei.JEI.hide(<modernmetals:cadmium_door_item>);
@@ -466,7 +468,7 @@ mods.jei.JEI.hide(<basemetals:starsteel_door_item>);
 mods.jei.JEI.hide(<basemetals:steel_door_item>);
 mods.jei.JEI.hide(<basemetals:tin_door_item>);
 
-
+*/
 
 // Trapdoors
 recipes.remove(<modernmetals:aluminum_trapdoor>);
@@ -505,7 +507,7 @@ recipes.remove(<basemetals:silver_trapdoor>);
 recipes.remove(<basemetals:starsteel_trapdoor>);
 recipes.remove(<basemetals:steel_trapdoor>);
 recipes.remove(<basemetals:tin_trapdoor>);
-
+/*
 
 mods.jei.JEI.hide(<modernmetals:aluminum_trapdoor>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_trapdoor>);
@@ -544,7 +546,7 @@ mods.jei.JEI.hide(<basemetals:starsteel_trapdoor>);
 mods.jei.JEI.hide(<basemetals:steel_trapdoor>);
 mods.jei.JEI.hide(<basemetals:tin_trapdoor>);
 
-
+*/
 
 // bows
 recipes.remove(<modernmetals:aluminum_bow>);
@@ -565,7 +567,7 @@ recipes.remove(<modernmetals:titanium_bow>);
 recipes.remove(<modernmetals:tungsten_bow>);
 recipes.remove(<modernmetals:uranium_bow>);
 recipes.remove(<modernmetals:zirconium_bow>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_bow>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_bow>);
 mods.jei.JEI.hide(<modernmetals:cadmium_bow>);
@@ -585,7 +587,7 @@ mods.jei.JEI.hide(<modernmetals:tungsten_bow>);
 mods.jei.JEI.hide(<modernmetals:uranium_bow>);
 mods.jei.JEI.hide(<modernmetals:zirconium_bow>);
 
-
+*/
 
 // Arrows
 recipes.remove(<modernmetals:aluminum_arrow>);
@@ -606,7 +608,7 @@ recipes.remove(<modernmetals:titanium_arrow>);
 recipes.remove(<modernmetals:tungsten_arrow>);
 recipes.remove(<modernmetals:uranium_arrow>);
 recipes.remove(<modernmetals:zirconium_arrow>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_arrow>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_arrow>);
 mods.jei.JEI.hide(<modernmetals:cadmium_arrow>);
@@ -625,7 +627,7 @@ mods.jei.JEI.hide(<modernmetals:titanium_arrow>);
 mods.jei.JEI.hide(<modernmetals:tungsten_arrow>);
 mods.jei.JEI.hide(<modernmetals:uranium_arrow>);
 mods.jei.JEI.hide(<modernmetals:zirconium_arrow>);
-
+*/
 
 
 // Crossbow
@@ -647,7 +649,7 @@ recipes.remove(<modernmetals:titanium_crossbow>);
 recipes.remove(<modernmetals:tungsten_crossbow>);
 recipes.remove(<modernmetals:uranium_crossbow>);
 recipes.remove(<modernmetals:zirconium_crossbow>);
-
+/*
 mods.jei.JEI.hide(<modernmetals:aluminum_crossbow>);
 mods.jei.JEI.hide(<modernmetals:aluminumbrass_crossbow>);
 mods.jei.JEI.hide(<modernmetals:cadmium_crossbow>);
@@ -666,3 +668,4 @@ mods.jei.JEI.hide(<modernmetals:titanium_crossbow>);
 mods.jei.JEI.hide(<modernmetals:tungsten_crossbow>);
 mods.jei.JEI.hide(<modernmetals:uranium_crossbow>);
 mods.jei.JEI.hide(<modernmetals:zirconium_crossbow>);
+*/

@@ -40,7 +40,6 @@
                 },
 				{
                     type: "remove",
-					from: ["crafting"],
                     what: "mekanismgenerators:Generator"
                 }
             ]

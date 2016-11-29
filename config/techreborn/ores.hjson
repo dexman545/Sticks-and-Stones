@@ -132,7 +132,7 @@
   [
     {
       blockName: tile.techreborn.ore
-      blockNiceName: Tungston
+      blockNiceName: Tungsten
       meta: 8
       veinSize: 6
       veinsPerChunk: 3

@@ -4,14 +4,14 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:16
+renderDistance:18
 guiScale:3
 particles:0
 bobView:false
 anaglyph3d:false
-maxFps:260
+maxFps:60
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:true
 ao:1
 renderClouds:false
@@ -50,7 +50,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:false
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -82,10 +82,15 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_key.betterminecraftchat.options:70
-key_BloodMagic.keybind.openSigilHolding:35
+key_chiselsbytes.keybind:201
+key_enchiridion.key.library:38
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_key.moreoverlays.invsearch.desc:0
+key_key.stellarapi.focusgui.description:0
+key_key.photoptics.zoomin:13
+key_key.photoptics.zoomout:12
+key_key.photoptics.observe:45:SHIFT
 key_schematica.key.load:181
 key_schematica.key.save:55
 key_schematica.key.control:74
@@ -96,13 +101,13 @@ key_schematica.key.renderToggle:0
 key_schematica.key.printerToggle:0
 key_schematica.key.moveHere:0
 key_schematica.key.pickBlock:-98:SHIFT
-key_key.stellarapi.focusgui.description:0
 key_veinminer.key.enable:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0:CONTROL
 key_key.jei.showRecipe:19
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
+key_key.jei.toggleCheatMode:0
 key_key.charset.backpackOpen:46
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
@@ -139,26 +144,32 @@ key_key.craftingtweaks.compressAll:37:SHIFT
 key_key.craftingtweaks.decompressOne:0
 key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
+key_Dynamic Lights toggle:38
 key_invtweaks.key.sort:21
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
 key_key.config:25
+key_Mo'Bends Menu:34
 key_Quick Commands:0
 key_key.materialCosts:56
 key_key.clipboardPaste:210
-key_keys.techreborn.config:23
+key_keys.techreborn.config:25
+key_Toggle uphill step assist:41
 key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:27
-key_key.journeymap.minimap_type:27
+key_key.journeymap.minimap_type:0
+key_key.journeymap.minimap_type:0
 key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
+key_key.journeymap.create_waypoint:27
 key_BetterFps:88
+key_BloodMagic.keybind.open_holding:35
+key_BloodMagic.keybind.cycle_holding_pos:13:SHIFT
+key_BloodMagic.keybind.cycle_holding_neg:12:SHIFT
 soundCategory_master:0.25165564
-soundCategory_music:0.5070422
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
